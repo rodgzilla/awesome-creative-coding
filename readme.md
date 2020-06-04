@@ -270,6 +270,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - YouTube playlist about vertex shaders.
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
+- [Shader coding tutorial](https://www.youtube.com/watch?v=il_Qg9AqQkE&list=PLGmrMu-IwbgsVjE7SAtFaWyhZXyBjJNnO) - Youtube playlist teaching you how to create shaders, with a focus on ray marching techniques.
 - [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
 
 ### Talks
